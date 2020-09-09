@@ -19,8 +19,8 @@ a {
 
 .top-wrapper {
   padding: 180px 0 100px 0;
-  background-image: url(https://github.com/teppei-bestlife/houkan-bestlife.github.io/blob/master/D80_0283.jpg);
-  background-size: contain;
+  background-image: url(url(D80_0283.jpg);
+  background-size: cover;
   color: white;
   text-align: center;
 }
